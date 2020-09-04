@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BiometricsTestApp</string>
+
+    <string name="login_biometric">Login with Biometric</string>
+    <string name="biometric_desc">use biometric for faster and \neasy access to your account</string>
+
+    <string name="btn_use_biometric">Use Biometric</string>
+    <string name="made_it">Woot you made it!</string>
+</resources>
